@@ -1,0 +1,26 @@
+body{ 
+	background-color: rgb(232, 235, 245);
+	font-size: 16px;
+        font-family: tahoma;	
+        text-decoration: none;
+}
+a{
+text-decoration: none;
+}
+img {
+ border: 2px solid black; 
+ padding: 5px; 
+}
+#titulo {
+  font-style: italic;
+}
+li{
+font-weight: bold;}
+
+.active-tab {
+    background-color: #c8a2c8; 
+    color: black; }
+
+.tab-content {
+    display: none;
+}
